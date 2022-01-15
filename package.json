@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "antd": "^3.26.5",
     "axios": "^0.19.0",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "moment": "^2.24.0",
     "pushstate-server": "^3.1.0",
     "react": "^16.12.0",
